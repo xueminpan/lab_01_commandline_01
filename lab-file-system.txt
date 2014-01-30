@@ -32,7 +32,7 @@ If it doesn't start at #1 again, or ask for help before moving on!
 Copy and paste the output of pwd below.
 ----------
 
-
+/Users/student/desktop/mtec1002
 
 ==========
 5. Type:
@@ -42,7 +42,7 @@ $ ls
 
 Copy and paste the output below.
 ----------
-
+animals
 
 
 ==========
@@ -54,7 +54,7 @@ $ ls
 Copy and paste the output below.
 ----------
 
-
+animal food
 
 ==========
 7. Type:
@@ -64,7 +64,7 @@ $ ls
 
 Copy and paste the output below.
 ----------
-
+animals	foo	food
 
 
 ==========
@@ -75,7 +75,7 @@ $ pwd
 
 Copy and paste the output below.
 ----------
-
+/Users/student/desktop/mtec1002/foo/bar/baz/qux
 
 
 ==========
@@ -87,7 +87,7 @@ $ pwd
 Copy and paste the output below.
 ----------
 
-
+/Users/student/desktop/mtec1002/foo/bar
 
 ==========
 10. Type:
@@ -98,7 +98,7 @@ $ pwd
 Copy and paste the output below.
 ----------
 
-
+/Users/student/desktop/mtec1002/foo/bar/baz/qux
  
 ==========
 11. Type:
@@ -109,7 +109,7 @@ $ pwd
 Copy and paste the output below.
 ----------
 
-
+/Users/student/desktop/mtec1002
 
 ==========
 12. Type:
@@ -120,7 +120,8 @@ $ ls -l
 
 Copy and paste the first two lines from the output into the space below.
 ----------
-
+drwxr-xr-x  3 student  staff  102 Jan 29 19:55 foo
+drwxr-xr-x  2 student  staff   68 Jan 29 19:53 food
 
 
 ==========
@@ -132,7 +133,7 @@ $ pwd
 Copy and paste the output into the space below.
 ----------
 
-
+/Users/student
 
 ==========
 14. Type:
@@ -143,7 +144,7 @@ $ pwd
 Copy and paste the output into the space below.
 ----------
 
-
+/Volumes
 
 ==========
 15. Type:
@@ -154,7 +155,7 @@ $ pwd
 Copy and paste the output into the space below.
 ----------
 
-
+/Volumes
 
 ==========
 15. Type:
@@ -165,7 +166,7 @@ $ pwd
 Copy and paste the output into the space below.
 ----------
 
-
+/Volumes
 
 ==========
 16. Type:
@@ -175,13 +176,13 @@ $ hostname
 Copy and paste the output into the space below.
 ----------
 
-
+ent-v321-015.local
 
 ==========
 17a. Make sure you're back in your mtec1002, which should be in your home folder.  What command would you use to find out if you're in the right folder?  Write the command below, then run it.
 ----------
 
-
+pwd
 
 ==========
 17b. If you're not in the right directory, type the following command:
@@ -211,8 +212,7 @@ Use only one command to make all of these new directories.  Write what command y
 
 Write the command you used to create the directory below:
 ----------
-
-
+mkdir -p pineapple/orange/strawberry/lemon
 
 ==========
 20. List the files and directories in the current directory using the long format.  
@@ -220,7 +220,7 @@ Write the command you used to create the directory below:
 What is the modified date of the aardvark directory?
 ----------
 
-
+Jan 29 20:10
 
 ==========
 21. Make 3 directories nested within each other:
